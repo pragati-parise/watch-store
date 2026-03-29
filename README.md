@@ -1,6 +1,6 @@
 # Samay Sutra Watch Store
 
-A full-stack Indian watch e-commerce website built with Flask, SQLite, HTML, CSS, and JavaScript.
+A full-stack Indian watch e-commerce website built with a React frontend and a Flask + SQLite backend.
 
 ## Features
 
@@ -10,7 +10,9 @@ A full-stack Indian watch e-commerce website built with Flask, SQLite, HTML, CSS
 - Quantity increase and decrease
 - Remove item from cart
 - Checkout with "Order placed" confirmation after clicking `Pay Now`
+- My Orders history for signed-in users
 - SQLite-backed users, products, orders, and order items
+- React frontend that consumes Flask API endpoints
 
 ## Run locally
 
