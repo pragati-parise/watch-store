@@ -22,7 +22,7 @@ PRODUCT_SEED = [
         "brand": "Titan",
         "category": "Luxury",
         "price": 18999.0,
-        "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/rajwadi-chronograph.png",
         "description": "A polished steel chronograph built for refined festive and formal looks.",
     },
     {
@@ -30,7 +30,7 @@ PRODUCT_SEED = [
         "brand": "Fastrack",
         "category": "Women",
         "price": 7999.0,
-        "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/noor-rose.png",
         "description": "Rose-gold detailing and a slim dial for an elegant everyday Indian style.",
     },
     {
@@ -38,7 +38,7 @@ PRODUCT_SEED = [
         "brand": "Sonata",
         "category": "Sport",
         "price": 11999.0,
-        "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/goa-diver.png",
         "description": "A rugged diver-inspired watch with luminous markers and bold weekend energy.",
     },
     {
@@ -46,7 +46,7 @@ PRODUCT_SEED = [
         "brand": "Titan",
         "category": "Luxury",
         "price": 19999.0,
-        "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/kohinoor-automatic.png",
         "description": "Automatic movement, matte black dial, and a refined leather strap for premium dressing.",
     },
     {
@@ -54,7 +54,7 @@ PRODUCT_SEED = [
         "brand": "Maxima",
         "category": "Casual",
         "price": 3999.0,
-        "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/monsoon-field.png",
         "description": "A reliable field watch with crisp numerals and a durable strap for daily wear.",
     },
     {
@@ -62,7 +62,7 @@ PRODUCT_SEED = [
         "brand": "boAt",
         "category": "Smart",
         "price": 6499.0,
-        "image": "https://images.unsplash.com/photo-1434493907317-a46b5bbe7834?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/metro-digital.png",
         "description": "A hybrid digital watch for fitness tracking and clean urban styling.",
     },
     {
@@ -70,7 +70,7 @@ PRODUCT_SEED = [
         "brand": "HMT",
         "category": "Formal",
         "price": 9499.0,
-        "image": "https://images.unsplash.com/photo-1490367532201-b9bc1dc483f6?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/darbar-classic.png",
         "description": "Minimal dial design with timeless proportions for office-ready wear.",
     },
     {
@@ -78,7 +78,7 @@ PRODUCT_SEED = [
         "brand": "Fire-Boltt",
         "category": "Sport",
         "price": 13999.0,
-        "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+        "image": "/static/images/delhi-edge-carbon.png",
         "description": "Carbon-texture dial and performance strap for a fast, athletic feel.",
     },
 ]
